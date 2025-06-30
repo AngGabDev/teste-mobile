@@ -8,6 +8,8 @@ export const config = {
     
     maxInstances: 1,
 
+    //Não está funcionando
+
     capabilities: [{
         platformName: 'Android',
         'appium:deviceName': 'ebac',
