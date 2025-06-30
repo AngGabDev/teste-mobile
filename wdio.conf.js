@@ -13,7 +13,7 @@ export const config = {
         'appium:deviceName': 'ebac',
         'appium:platformVersion': '9.0',
         'appium:automationName': 'UiAutomator2',
-        'appium:app': `${process.cwd}\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk`,
+        'appium:app': `${process.cwd}/apps/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk`,
         'appium:appWaitActivity': '.MainActivity',
         'appium:disableIdLocatorAutocompletion': true
     }],
